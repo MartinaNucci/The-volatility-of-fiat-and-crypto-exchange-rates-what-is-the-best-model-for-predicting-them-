@@ -9,6 +9,9 @@ Volatility is measured using a range-based estimator derived from daily opening,
 
 The scripts are organised according to their purpose:
 
+- `Thesis.pdf`
+Contains the thesis pdf.
+
 - `NM2024-General-Functions.R`  
   Contains general functions for data loading, volatility calculation, rolling windows, forecast evaluation, and Diebold–Mariano tests.
 
